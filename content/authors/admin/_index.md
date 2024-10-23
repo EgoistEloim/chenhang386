@@ -53,19 +53,19 @@ interests:
 education:
   - area: MSc Computer Science
     institution: New York University
-    date_start: 2020-01
-    date_end: 2021-05
+    date_start: 2020-01-15
+    date_end: 2021-05-01
 
   - area: BSc Computer Science
     institution: Jilin University
-    date_start: 2014-09
-    date_end: 2018-07
+    date_start: 2014-09-01
+    date_end: 2018-07-01
 work:
   - position: Machine Learning Engineer
     company_name: Snap Inc.
     company_url: https://www.snapchat.com/
     company_logo: ''
-    date_start: 2021-09
+    date_start: 2021-09-13
     date_end: ''
     summary: |
       I have led the development of critical machine learning models and systems that power content understanding and trust & safety features, significantly enhancing the platform's ability to personalize content while ensuring user safety. My work focuses on building large-scale multi-modality models that process vision, text, and audio data, contributing to hundreds of millions of views, double-digit percentage user growth, and a substantial reduction in user reports globally. 
@@ -75,8 +75,8 @@ work:
     company_name: Megvii
     company_url: https://en.megvii.com/
     company_logo: ''
-    date_start: 2018-09
-    date_end: 2019-11
+    date_start: 2018-09-07
+    date_end: 2019-11-31
     summary: |
       At Megvii Inc., I focused on developing state-of-the-art artificial intelligence and machine learning solutions for large-scale computer vision challenges. I played a central role in designing and optimizing deep learning models for complex image recognition tasks, including building custom neural networks to enhance the accuracy and efficiency of car license plate recognition systems. Through reverse engineering and advanced algorithm design, I improved model execution efficiency by 10x and increased recognition precision.
 
