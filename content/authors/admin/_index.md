@@ -76,7 +76,7 @@ work:
     company_url: https://en.megvii.com/
     company_logo: ''
     date_start: '2018-09-07'
-    date_end: '2019-11-31'
+    date_end: '2019-11-30'
     summary: |
       At Megvii Inc., I focused on developing state-of-the-art artificial intelligence and machine learning solutions for large-scale computer vision challenges. I played a central role in designing and optimizing deep learning models for complex image recognition tasks, including building custom neural networks to enhance the accuracy and efficiency of car license plate recognition systems. Through reverse engineering and advanced algorithm design, I improved model execution efficiency by 10x and increased recognition precision.
 
