@@ -32,10 +32,6 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:chenhang386@gmail.com'
-    label: Primary Email
-  - icon: at-symbol
-    url: 'mailto:1050741785@qq.com'
-    label: Secondary Email
   - icon: brands/github
     url: https://github.com/EgoistEloim
   - icon: brands/linkedin
@@ -116,26 +112,23 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Boba Milk Tea
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+      - name: Dota2
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+      - name: Swim
+        description: ''
+        percent: 70
 
 languages:
   - name: English
     percent: 100
   - name: Chinese
+    percent: 100
+  - name: Cantonese
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -171,4 +164,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have spent the last 10 years involving in Artificial Intelligence, and in the last 3 years I have ledinclusive and collaborative applied machine learning enginners, and have grown diverse technical leaders who can take smart bets and inspire others to do the same. During that time, I tech-led teams to overcome long-standing challenges in areas where previous efforts have stalled, and to revitalize stagnant products such as reducing YoY report or hide rate by 70% of a major product. In addition, we were able to do so while achieving cost savings of multiple tens of millions dollars annually.  
+
+My primary expertise is to develop strategic, state-of-the-art ML(CV & NLP, multimodal embedding and taxonomy predictions) levers by combining a deep understanding of artificial intelligence systems with data insights. I have worked in main delivery surfaces at Megvii and Snap, so I understand the need to cultivate strong XFN relationships to foster effective partnerships between organizations.
+
+My research interests encompass a broad range of topics, including computer vision, zero-shot learning, bioinformatics, large language models (LLM) applications, and multi-modality models.
