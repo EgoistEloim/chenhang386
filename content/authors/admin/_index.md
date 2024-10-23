@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 陈航
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: chen hang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hang
+last_name: Chen
 
 # Status emoji
 status:
@@ -20,92 +20,67 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Machine Learning Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Snap Inc.
+    url: https://www.snapchat.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'mailto:chenhang386@gmail.com'
+    label: Primary Email
+  - icon: at-symbol
+    url: 'mailto:1050741785@qq.com'
+    label: Secondary Email
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/EgoistEloim
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/hangchen386/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=Fy22j1AAAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Large Language Models
+  - Multi-modality Content Understanding
+  - Trust & Safety
+  - Computer Vision
+  - Recommendation System
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: MSc Computer Science
+    institution: New York University
+    date_start: 2020-01
+    date_end: 2021-05
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Computer Science
+    institution: Jilin University
+    date_start: 2014-09
+    date_end: 2018-07
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Machine Learning Engineer
+    company_name: Snap Inc.
+    company_url: https://www.snapchat.com/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-09
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I have led the development of critical machine learning models and systems that power content understanding and trust & safety features, significantly enhancing the platform's ability to personalize content while ensuring user safety. My work focuses on building large-scale multi-modality models that process vision, text, and audio data, contributing to hundreds of millions of views, double-digit percentage user growth, and a substantial reduction in user reports globally. 
+
+      In addition to my contributions to the core recommendation system, I spearhead efforts in developing robust content understanding systems using large language models (LLMs), playing a key role in improving content ranking and user engagement. As a technical lead, I collaborate closely with cross-functional teams, including backend and infrastructure engineers, to deploy machine learning models efficiently at scale, while ensuring that these systems support diverse use cases such as content personalization, integrity, and compliance across the platform.
+  - position: Algorithm Researcher
+    company_name: Megvii
+    company_url: https://en.megvii.com/
+    company_logo: ''
+    date_start: 2018-09
+    date_end: 2019-11
+    summary: |
+      At Megvii Inc., I focused on developing state-of-the-art artificial intelligence and machine learning solutions for large-scale computer vision challenges. I played a central role in designing and optimizing deep learning models for complex image recognition tasks, including building custom neural networks to enhance the accuracy and efficiency of car license plate recognition systems. Through reverse engineering and advanced algorithm design, I improved model execution efficiency by 10x and increased recognition precision.
+
+      I also contributed to large-scale dataset construction, leading efforts in building the Objects 365 Large Scale Image Dataset. By implementing a pre-labeling system utilizing the COCO dataset, I boosted labeling efficiency by 25%, accelerating data collection for use in AI training. The dataset became a foundational resource for researchers globally and was presented at ICCV 2019. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,16 +89,29 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: Golang
+        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 60
+        icon: code-bracket
+      - name: SQL
+        description: ''
+        percent: 90
+        icon: circle-stack
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
